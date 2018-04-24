@@ -32,5 +32,6 @@ public class BActivity extends AppCompatActivity {
                 finish();
             }
         });
+        //test
     }
 }
